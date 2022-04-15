@@ -1,0 +1,5 @@
+exchange:
+  ftx:
+    websocker: 'wss://ftx.com/ws/'
+    api_key: '7bDg2nqIDHHtlP9pdXkdESbJ5agRkpIwWEXFVDGb'
+    api_secret: 'uQmgyAc3v4YyKccJ-dy-faPgGoPpYymgOsXn1huq'
